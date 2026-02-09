@@ -10,7 +10,7 @@ MeetStranger é um aplicativo de chat anônimo que conecta pessoas com interesse
 
 ### ✨ Características Principais
 
-- 🔒 **100% Anônimo** - Sem coleta de dados pessoais
+
 - 👥 **Chat P2P** - Conversas 1-para-1 em tempo real
 - 🎯 **Por Tópicos** - Filmes, Jogos e Séries
 - ⚡ **Instantâneo** - Conexão rápida com outros usuários
